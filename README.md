@@ -1,0 +1,2 @@
+# TradeGenius
+Advanced Trading Journal
